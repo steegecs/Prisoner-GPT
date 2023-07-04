@@ -1,2 +1,1 @@
-# neural-interpretation
-How do neural networks work? 
+# Prisoner GPT
